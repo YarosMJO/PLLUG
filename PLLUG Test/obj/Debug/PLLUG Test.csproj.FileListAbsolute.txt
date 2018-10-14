@@ -1,7 +1,0 @@
-C:\Users\myhaj\source\repos\PLLUG Test\PLLUG Test\bin\Debug\PLLUG Test.exe.config
-C:\Users\myhaj\source\repos\PLLUG Test\PLLUG Test\bin\Debug\PLLUG Test.exe
-C:\Users\myhaj\source\repos\PLLUG Test\PLLUG Test\bin\Debug\PLLUG Test.pdb
-C:\Users\myhaj\source\repos\PLLUG Test\PLLUG Test\obj\Debug\PLLUG Test.csprojAssemblyReference.cache
-C:\Users\myhaj\source\repos\PLLUG Test\PLLUG Test\obj\Debug\PLLUG Test.csproj.CoreCompileInputs.cache
-C:\Users\myhaj\source\repos\PLLUG Test\PLLUG Test\obj\Debug\PLLUG Test.exe
-C:\Users\myhaj\source\repos\PLLUG Test\PLLUG Test\obj\Debug\PLLUG Test.pdb
