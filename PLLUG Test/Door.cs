@@ -4,19 +4,22 @@
     {
         public int Height { get; private set; }
         public int Width { get; private set; }
-        public Door(int height, int width)
+        public string Name { get; private set; }
+
+        public Door(int height, int width, string name)
         {
             Height = height;
             Width = width;
+            Name = name;
         }
     }
     public class RectangleDoor : Door
     {
-        public RectangleDoor(int height, int weight) : base(height, weight) { }
+        public RectangleDoor(int height, int weight, string name) : base(height, weight, name) { }
     }
 
     public class RoundDoor : Door
     {
-        public RoundDoor(int diametr) : base(diametr, diametr) { }
+        public RoundDoor(int diametr, string name) : base(diametr, diametr, name) { }
     }
 }
